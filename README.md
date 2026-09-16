@@ -71,25 +71,11 @@ Android 13+ requires notification permission for normal notifications.
 
 ## GitHub
 
-Recommended repository name:
+Repository name:
 
 `ai-screen-time-tracker`
 
-Suggested GitHub description:
 
-> AI-powered Android app that analyzes mobile app usage, detects excessive screen time, and provides explainable digital wellbeing insights.
-
-## Academic extension ideas
-
-For a stronger final thesis/demo:
-
-1. Store daily usage history in Room.
-2. Add 7-day and 30-day charts.
-3. Add a WorkManager background check.
-4. Add notification alerts when the daily limit is crossed.
-5. Train a small ML model using anonymized usage features.
-6. Compare predicted high-use days with actual high-use days.
-7. Add an optional on-device GenAI insight layer on supported devices.
 8. Add export to CSV for academic analysis.
 
 ## Privacy
